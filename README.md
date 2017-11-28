@@ -1,2 +1,2 @@
 # Pointers
-Print Pointer Adresses
+Print Pointer Addresses
